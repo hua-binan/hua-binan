@@ -1,5 +1,5 @@
 
-## <p align="center"><a href='https://postimg.cc/T5V99HWk' target='_blank'><img src='https://i.postimg.cc/T5V99HWk/IMG-0377.png' width="300" height="300" />
+## <p align="center"><a href="https://gyazo.com/714836714b5c1c312152795d33e6e794"><img src="https://i.gyazo.com/714836714b5c1c312152795d33e6e794.png" alt="Image from Gyazo" width="500" height="500"/></a>
 <!--
 **hua-binan/hua-binan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
