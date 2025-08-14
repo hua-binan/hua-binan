@@ -1,5 +1,5 @@
-## Hi there 👋
 
+## <p align="center"><a href='https://postimg.cc/T5V99HWk' target='_blank'><img src='https://i.postimg.cc/T5V99HWk/IMG-0377.png' width="300" height="300" />
 <!--
 **hua-binan/hua-binan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
